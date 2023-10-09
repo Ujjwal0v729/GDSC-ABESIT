@@ -52,17 +52,17 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
-// Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+
+    {
+       id: '520180' ,
+       name: "Ujjwal Verma",
+       img: "https://media.licdn.com/dms/image/D4D03AQFOODNomKeAdg/profile-displayphoto-shrink_800_800/0/1681038341352?e=1702512000&v=beta&t=W3nB8fyV0KHxqlg0qlGl2j0eiVpQKGuKj6V81lHXEbA",
+       role: "Full Stack Contributer",
+       social1: "https://github.com/Ujjwal0v729",
+       social2: "https://twitter.com/UjjwalV0",
+       desc: "napper and amateur comedian."
+     },
   ];
 
 
